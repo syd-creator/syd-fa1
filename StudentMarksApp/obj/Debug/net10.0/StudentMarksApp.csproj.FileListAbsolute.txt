@@ -1,0 +1,14 @@
+C:\Users\thama\source\repos\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.exe
+C:\Users\thama\source\repos\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.deps.json
+C:\Users\thama\source\repos\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.runtimeconfig.json
+C:\Users\thama\source\repos\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.dll
+C:\Users\thama\source\repos\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.pdb
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.AssemblyInfoInputs.cache
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.AssemblyInfo.cs
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.csproj.CoreCompileInputs.cache
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.dll
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\refint\StudentMarksApp.dll
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.pdb
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.genruntimeconfig.cache
+C:\Users\thama\source\repos\StudentMarksApp\obj\Debug\net10.0\ref\StudentMarksApp.dll

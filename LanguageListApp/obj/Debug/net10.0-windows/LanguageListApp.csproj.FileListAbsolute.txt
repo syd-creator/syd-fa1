@@ -1,0 +1,6 @@
+C:\Users\thama\source\repos\LanguageListApp\obj\Debug\net10.0-windows\LanguageListApp.Form1.resources
+C:\Users\thama\source\repos\LanguageListApp\obj\Debug\net10.0-windows\LanguageListApp.csproj.GenerateResource.cache
+C:\Users\thama\source\repos\LanguageListApp\obj\Debug\net10.0-windows\LanguageListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thama\source\repos\LanguageListApp\obj\Debug\net10.0-windows\LanguageListApp.AssemblyInfoInputs.cache
+C:\Users\thama\source\repos\LanguageListApp\obj\Debug\net10.0-windows\LanguageListApp.AssemblyInfo.cs
+C:\Users\thama\source\repos\LanguageListApp\obj\Debug\net10.0-windows\LanguageListApp.csproj.CoreCompileInputs.cache
